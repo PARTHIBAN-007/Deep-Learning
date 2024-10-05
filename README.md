@@ -44,11 +44,3 @@ Revolutionized NLP (Natural Language Processing) by utilizing self-attention mec
 Generative Adversarial Networks (GANs):
 Comprises two neural networks (a generator and a discriminator) that work against each other to generate realistic data, commonly used for image generation.
 
-
-Applications
-
-Computer Vision: Image classification, object detection, facial recognition.
-Natural Language Processing: Text classification, sentiment analysis, machine translation, chatbots.
-Speech Recognition: Voice-to-text conversion and virtual assistants.
-Healthcare: Disease prediction, medical imaging analysis, drug discovery.
-Autonomous Vehicles: Object detection, navigation, and decision-making processes.
