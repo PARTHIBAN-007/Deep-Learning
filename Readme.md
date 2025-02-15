@@ -15,16 +15,6 @@ Deep Learning is a subfield of Machine Learning that involves the use of neural 
 
 # Neural Network Architecture
 ## Main Components of a Neural Network:
-- **Input Layer**
-- **Hidden Layer(s)**
-- **Output Layer**
-- **Neurons**
-- **Weights and Biases**
-- **Activation Functions**
-- **Loss Functions**
-- **Optimizers**
-
-### Explanation:
 - **Input Layer:** Receives raw input data (features) where each node represents a feature.
 - **Hidden Layer:** Intermediate layers between input and output that transform data into higher-level representations, allowing the network to learn complex patterns.
 - **Output Layer:** Produces the final prediction or classification, with the number of neurons representing the output classes.
